@@ -20,3 +20,19 @@ Route::get('/', function () {
 Route::get('/datapegawai', function () {
     return view('datapegawai');
 });
+
+Route::get('/datajabatan', function () {
+    return view('datajabatan');
+});
+
+Route::get('/datagaji', function () {
+    return view('datagaji');
+});
+
+Route::get('/laporangaji', function () {
+    return view('laporangaji');
+});
+
+Route::get('/slipgaji', function () {
+    return view('slipgaji');
+});
