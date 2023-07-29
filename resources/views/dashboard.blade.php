@@ -19,27 +19,27 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Dashboard</a>
+            <a class="nav-link active" aria-current="page" href="/">Dashboard</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               Master Data
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Data Pegawai</a></li>
-              <li><a class="dropdown-item" href="#">Data Jabatan</a></li>
+              <li><a class="dropdown-item" href="/datapegawai">Data Pegawai</a></li>
+              <li><a class="dropdown-item" href="/datajabatan">Data Jabatan</a></li>
             </ul>
           </li>
           <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Data Gaji</a>
+          <a class="nav-link active" aria-current="page" href="/datagaji">Data Gaji</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Laporan
           </a>
           <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Laporan Gaji</a></li>
-            <li><a class="dropdown-item" href="#">Slip Gaji</a></li>
+            <li><a class="dropdown-item" href="/laporangaji">Laporan Gaji</a></li>
+            <li><a class="dropdown-item" href="/slipgaji">Slip Gaji</a></li>
           </ul>
         </li>
         </ul>
