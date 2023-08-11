@@ -2,7 +2,7 @@
 @section('items')   
 <section>
   <div class="container">
-    <h1>Dashboard</h1>
+    <h1 class="pt-2">Dashboard</h1>
   </div>
   <div class="container text-center">
     <div class="row">

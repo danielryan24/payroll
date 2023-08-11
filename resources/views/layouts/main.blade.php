@@ -10,7 +10,7 @@
   </head>
   <body>
 <section>
-  <nav class="navbar navbar-expand-lg">
+  <nav class="bg-secondary navbar navbar-expand-lg shadow-sm bg-body-tertiary rounded">
     <div class="container">
       <a class="navbar-brand" href="/">PT. CITRA CAHAYA MANDIRI</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
