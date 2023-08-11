@@ -27,7 +27,7 @@
             </a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/datapegawai">Data Pegawai</a></li>
-              <li><a class="dropdown-item" href="/datajabatan">Data Jabatan</a></li>
+              <li><a class="dropdown-item" href="/dataleveljabatan">Data Level Jabatan</a></li>
             </ul>
           </li>
           <li class="nav-item">

@@ -21,8 +21,8 @@ Route::get('/datapegawai', function () {
     return view('datapegawai');
 });
 
-Route::get('/datajabatan', function () {
-    return view('datajabatan');
+Route::get('/dataleveljabatan', function () {
+    return view('dataleveljabatan');
 });
 
 Route::get('/datagaji', function () {
